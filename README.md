@@ -8,7 +8,7 @@ This data file includes queries, views, procedures, and functions.
 
 <strong>If you want to get notified about future changes, follow my GitHub account.</strong>
 
-First clone the project.
+You can clone the project and work on it.
 
 ```bash
 https://github.com/hashemi221022/MySQL_Queries_Views_Procedures_Functions.git
