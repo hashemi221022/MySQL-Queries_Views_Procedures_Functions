@@ -11,7 +11,7 @@ This data file includes queries, views, procedures, and functions.
 You can clone the project and work on it.
 
 ```bash
-https://github.com/hashemi221022/MySQL_Queries_Views_Procedures_Functions.git
+https://github.com/hashemi221022/MySQL-Queries_Views_Procedures_Functions.git
 ```
 
 
