@@ -1,6 +1,6 @@
 
 # What is this project? 
-<span><img src="https://img.shields.io/badge/MySQL-316192?style=flat&logo=postgresql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-316192?style=flat&logo=MYSQL&logoColor=white" /></span>
 
 This data file includes queries, views, procedures, and functions.
 
